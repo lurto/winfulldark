@@ -1,5 +1,5 @@
 # winfulldark
-Windows full darkmode
+Windows full dark mode - just a compliation of preexisting scripts.
 
 works even without Windows being activated
 
